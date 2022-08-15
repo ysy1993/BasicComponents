@@ -106,19 +106,19 @@
     <dependency>
       <groupId>com.tencent.bugly</groupId>
       <artifactId>nativecrashreport</artifactId>
-      <version>3.9.2</version>
+      <version>RELEASE</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.tencent.tinker</groupId>
       <artifactId>tinker-android-lib</artifactId>
-      <version>1.9.14.24</version>
+      <version>1.9.9</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.tencent.bugly</groupId>
       <artifactId>crashreport_upgrade</artifactId>
-      <version>1.6.1</version>
+      <version>RELEASE</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
